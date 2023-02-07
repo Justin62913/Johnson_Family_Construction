@@ -19,7 +19,7 @@ class Footer extends React.Component {
                 <footer className="site-footer footer-large  footer-dark	footer-wide"  >
 
                     {/* FOOTER BLOCKES START */}
-                    <div className="footer-top overlay-wraper">
+                    <div className="footer-top ">
                         <div className="overlay-main" />
                         <div className="container">
                             <div className="row">

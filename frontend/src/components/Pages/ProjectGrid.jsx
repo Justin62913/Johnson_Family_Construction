@@ -1,27 +1,51 @@
-import React from 'react';
-import { NavLink } from 'react-router-dom';
+import React, {useEffect, useState} from 'react';
+
 import Header from './../Common/Header';
 import Footer from './../Common/Footer';
 import Banner from './../Elements/Banner';
 
 
 
-class ProjectGrid extends React.Component {
-    state = {
-        data: []
+const ProjectGrid = () => {
+
+
+    const [projects, setProject] = useState([])
+
+    const fetchData = async () => {
+        fetch(`/api/projects/`)
+            .then(response => {
+                return response.json();
+            })
+            .then(data => {
+                setProject(data)
+            })
     }
+    useEffect(() => {
+        fetchData()
+    }, [])
 
 
 
-    async componentDidMount() {
-        try {
+
+
+
+
+
+   /* state = {
+        data: []
+    }*/
+
+
+
+
+        /*try {
             const response = await fetch(`/api/projects/`)
             const data = await response.json();
             this.setState({data: data})
 
         }catch(err) {
             console.log(err)
-        }
+        }*/
 
 
 
@@ -53,11 +77,11 @@ class ProjectGrid extends React.Component {
 
          loadScript('./static/js/masonary.js');
 
-    };
 
-    render() {
 
-       const projects = this.state.data
+
+
+
         return (
             <>
                 <Header/>
@@ -78,7 +102,7 @@ class ProjectGrid extends React.Component {
                             </div>*/}
                             {/* PAGINATION END */}
                             {/* GALLERY CONTENT START */}
-                            <div className={"portfolio-wrap mfp-gallery work-grid row clearfix"}>
+                            <div className={" mfp-gallery work-grid row clearfix"}>
                                 {projects.slice(0,15).map((item, index,id) => (
                                     <div key={index} className={` masonry-item col-md-4 col-sm-6 m-b30`}>
                                         <div className="image-effect-two hover-shadow">
@@ -103,13 +127,11 @@ class ProjectGrid extends React.Component {
                     {/* SECTION CONTENT END  */}
                 </div>
 
-                    <div>
-                        <br/>
-                    </div>
+                 <Footer />
             </>
 
         );
-    };
+
 };
 
 export default ProjectGrid;

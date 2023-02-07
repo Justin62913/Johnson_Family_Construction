@@ -101,10 +101,10 @@ Version: 1.0
 	|____icon box right align
 	|____icon box center align
 	|____media with content box css
-	|____for media
+	|____for images
 
 
-/*____IMAGES OVERLAY EFFECTS (overly animation on media)
+/*____IMAGES OVERLAY EFFECTS (overly animation on images)
 ======================================
 
 	|____effect 1
@@ -112,95 +112,95 @@ Version: 1.0
 		|____Gradient-white
 	-------------------------------------
 
-/*____shortcodeS 
+/*____shortcodeS
 ======================================
 
-	|____Buttons 
-	------------------------------------- 
-		|____theme default button 		
-		|____button text uppercase		
-		|____button size 		
-		|____button rounded		
-		|____white 		
-		|____black 		
-		|____Gray 		
-		|____pink 		
-		|____Blue		
-		|____Green		
-		|____Orange		
-		|____Red 		
-		|____Brown 
-		|____Yellow 
-		|____purple 
-		|____Graphical 
-		|____Outline 
-		|____Outline white  
-		|____Outline black 
-		|____Outline gray 
-		|____Outline pink 
-		|____Outline blue 
-		|____Outline green 
-		|____Outline orange 
-		|____Outline red 
-		|____Outline brown 
-		|____Outline yellow 
-		|____Outline purple 
-		|____Outline hover 
-		|____button text link 
-		|____text link white 
-		|____text link black 
-		|____text link Gray 
-		|____text link pink 
-		|____text link Blue 
-		|____text link Green 
-		|____text link Orange 
-		|____text link Red 
-		|____text link Brown 
-		|____text link Yellow 
-		|____text link purple 
-		|____app strore 
-		|____filter buttons css 
-		|____Masonry filter alignment [Left-Right-Center] 
-		|____Masonry filter link style 
-		|____Masonry filter button style 
-		|____Masonry filter button outline style 
-		
-		
-	|____Title separators 
+	|____Buttons
 	-------------------------------------
-		|____Separator defualt		
-		|____Separator liner		
-		|____Separator square		
+		|____theme default button
+		|____button text uppercase
+		|____button size
+		|____button rounded
+		|____white
+		|____black
+		|____Gray
+		|____pink
+		|____Blue
+		|____Green
+		|____Orange
+		|____Red
+		|____Brown
+		|____Yellow
+		|____purple
+		|____Graphical
+		|____Outline
+		|____Outline white
+		|____Outline black
+		|____Outline gray
+		|____Outline pink
+		|____Outline blue
+		|____Outline green
+		|____Outline orange
+		|____Outline red
+		|____Outline brown
+		|____Outline yellow
+		|____Outline purple
+		|____Outline hover
+		|____button text link
+		|____text link white
+		|____text link black
+		|____text link Gray
+		|____text link pink
+		|____text link Blue
+		|____text link Green
+		|____text link Orange
+		|____text link Red
+		|____text link Brown
+		|____text link Yellow
+		|____text link purple
+		|____app strore
+		|____filter buttons css
+		|____Masonry filter alignment [Left-Right-Center]
+		|____Masonry filter link style
+		|____Masonry filter button style
+		|____Masonry filter button outline style
+
+
+	|____Title separators
+	-------------------------------------
+		|____Separator defualt
+		|____Separator liner
+		|____Separator square
 		|____Separator icon
-		
-	|____Deviders 
-	|____TABS 
+
+	|____Deviders
+	|____TABS
 	-------------------------------------
-		|____tabs style 1 [ default ] 		
-		|____tabs nav center 		
-		|____tabs bg  [ tabs background ] 		
-		|____tabs bg  [ tabs background ]		
-		|____tabs bg & top border  [ tabs background & top border in active ]		
-		|____tabs style 2 [ content with border outer ]		
-		|____tabs style 3  [ left-nav ] 		
-		|____tabs style 4  [ left-nav & content with border ] 		
-		|____tabs style 5  [ right-nav ] 		
+		|____tabs style 1 [ default ]
+		|____tabs nav center
+		|____tabs bg  [ tabs background ]
+		|____tabs bg  [ tabs background ]
+		|____tabs bg & top border  [ tabs background & top border in active ]
+		|____tabs style 2 [ content with border outer ]
+		|____tabs style 3  [ left-nav ]
+		|____tabs style 4  [ left-nav & content with border ]
+		|____tabs style 5  [ right-nav ]
 		|____tabs style 6  [ right-nav & content with border ]
-		
-		
-	|____Accordians 
+
+
+	|____Accordians
 	-------------------------------------
 	Accodian open close indicator css
-		|____Accordion defult		
-		|____Accordion outline		
-		|____Accordion bg gray		
-		|____Accordion bg primary		
+		|____Accordion defult
+		|____Accordion outline
+		|____Accordion bg gray
+		|____Accordion bg primary
 		|____Accordion bg dark
-		
-	|____Carousals 
+
+	|____Carousals
 	|____Client carousal 1
-	
-	|____Testimonials 
+
+	|____Testimonials
 	-------------------------------------
 		|____testimonial with background image
 		|____testimonial 6
@@ -209,79 +209,79 @@ Version: 1.0
 	-------------------------------------
 		|____Pricing table
 		|____pricing table style 2
-		
-	|____Alert box 
-	|____Image effects 
+
+	|____Alert box
+	|____Image effects
 	-------------------------------------
-		|____image-opacity 
-		|____image-zoom 
-		|____image-zoom-slow 
-		|____image-shrink 
-		|____image-side-pan 
-		|____image-vertical-pan 
-		|____image-fade-in 
-		|____image-fade-out 
-		|____image-rotate 
-		|____image-sepia 
-		|____image-blurr 
-		|____image-blurr-invert 
-		|____image off color 
-		|____image on color 
-		
-	|____ Modal pop 
-	|____ Social icons 
+		|____image-opacity
+		|____image-zoom
+		|____image-zoom-slow
+		|____image-shrink
+		|____image-side-pan
+		|____image-vertical-pan
+		|____image-fade-in
+		|____image-fade-out
+		|____image-rotate
+		|____image-sepia
+		|____image-blurr
+		|____image-blurr-invert
+		|____image off color
+		|____image on color
+
+	|____ Modal pop
+	|____ Social icons
 	-------------------------------------
-		|____social icon default 
-		|____social icon with border 
-		|____social icon dark 
-		|____social share icon style 1 
-		
-	|____ Breadcrumb 
+		|____social icon default
+		|____social icon with border
+		|____social icon dark
+		|____social share icon style 1
+
+	|____ Breadcrumb
 	-------------------------------------
 		|____breadcrumb-row-1
-		|____Breadcrumb-1 
-		
-	|____Google map 
-	|____Countdown clock 
-	|____Form elements 
-	
-	-------------------------------------  
-		|____input group 
-		|____ radio & checkbox 
-		|____Browse Button css   
-		|____validation symbol 
-		|____error for select box 
-		|____ succes for select box 
-		|____ textarea 
-		
+		|____Breadcrumb-1
+
+	|____Google map
+	|____Countdown clock
+	|____Form elements
+
+	-------------------------------------
+		|____input group
+		|____ radio & checkbox
+		|____Browse Button css
+		|____validation symbol
+		|____error for select box
+		|____ succes for select box
+		|____ textarea
+
 			|____resize-vertical
 			|____resize-horizontal
 			|____resize-none
-			
-	|____ Loading 
-	-------------------------------------  
+
+	|____ Loading
+	-------------------------------------
 		|____ loading - 1
 		|____loading - 2
-		
-	|____Widgets 
-	------------------------------------- 
-		|____widget listing		
-		|____widget search custom		
-		|____widget search wp-default		
-		|____widget recent-posts		
-		|____widget tags-list		
-		|____widget gallery		
-		|____widget client slider 
-		
-	|____Table 
-	|____Video 
+
+	|____Widgets
 	-------------------------------------
-	
-/*____WP DEFAULT  
+		|____widget listing
+		|____widget search custom
+		|____widget search wp-default
+		|____widget recent-posts
+		|____widget tags-list
+		|____widget gallery
+		|____widget client slider
+
+	|____Table
+	|____Video
+	-------------------------------------
+
+/*____WP DEFAULT
 ======================================
 
-/*____BLOG  
-====================================== 
+/*____BLOG
+======================================
 
 	-------------------------------------
 	|____if no image with blog post
@@ -302,16 +302,16 @@ Version: 1.0
 /*____LOGO ( company identify  symbol )
 ======================================
 
-	|____logo for header 
-	|____when header is sticky 
-	
+	|____logo for header
+	|____when header is sticky
+
 /*____MAIN BAR ( place logo & main-navigation )
 ======================================
 
 	main bar with box view
 	|____Top Part Search Bar
 
-/*____NAVIGATIONS 
+/*____NAVIGATIONS
 ======================================
 
 	|____mena-menu
@@ -324,13 +324,13 @@ Version: 1.0
 /*____BANNER
 ======================================
 
-	|____inner page banner 
+	|____inner page banner
 	-------------------------------------
 
 /*____SLIDER
 ======================================
 
-	|____ owl slider 
+	|____ owl slider
 	-------------------------------------
 		|____next pre btn
 		|____owl dots button
@@ -345,19 +345,19 @@ Version: 1.0
 		|____owl slider button
 		|____owl dots nav position
 
-/*____ PAGINATION 
+/*____ PAGINATION
 ======================================
 
-	|____pagination style-1 
+	|____pagination style-1
 
-/*____FOOTER 
+/*____FOOTER
 ======================================
 
 	|____ footer fixed on bottom css
 	-------------------------------------
 		|____footer fixed with fullscreen view
 		|____footer fixed with boxed view
-		
+
 	|____widget Getintuch
 	|____scroll top btn css
 	-------------------------------------
@@ -365,14 +365,14 @@ Version: 1.0
 /*____PAGE-CONTENT
 ======================================
 
-	|____Section Head Part 
-	|____Section Content Part 
+	|____Section Head Part
+	|____Section Content Part
 	-------------------------------------
 
 /*____ AFTER-LOGIN-CONTENT
 ======================================
 
-	|____ Contact us page 
+	|____ Contact us page
 	-------------------------------------
 
 /*____THEMEFOREST REQUIRED CLASSES
@@ -387,29 +387,29 @@ Version: 1.0
 /*____SHOP & PRODUCT DETAIL (Woocommerce)
 ======================================
 
-	|____Product Box 
+	|____Product Box
 	-------------------------------------
 
-/*____content show on image box () 
+/*____content show on image box ()
 ======================================
 
- 	|____info box show 
+ 	|____info box show
 
-/*____Customize  Grouping css 
+/*____Customize  Grouping css
 ======================================
 
-	|____set-radius 
-	|____transition 
-	|____float-clearfix 
+	|____set-radius
+	|____transition
+	|____float-clearfix
 	-------------------------------------
 
-/*____Inner pages 
+/*____Inner pages
 ======================================
 	|____Out Team
 	-------------------------------------
 		|____Out Team six
 	|____product block
-	------------------------------------- 
+	-------------------------------------
 /*____Background Effects
 ======================================
 
@@ -451,7 +451,7 @@ Version: 1.0
 */
 
 
-/*____GENERAL 
+/*____GENERAL
 ======================================*/
 
 
@@ -616,7 +616,7 @@ table {
 }
 
 
-/*____HEADING & TITLE 
+/*____HEADING & TITLE
 ======================================*/
 
 
@@ -723,7 +723,7 @@ h6 {
 }
 
 
-/*____TEXT & PARAGRAPH 
+/*____TEXT & PARAGRAPH
 ======================================*/
 
 
@@ -1049,7 +1049,7 @@ strong {
 }
 
 
-/*____LISTING STYLES 
+/*____LISTING STYLES
 ======================================*/
 
 
@@ -3122,7 +3122,7 @@ ol.list-num-count.list-outline-none>li:before {
 }
 
 
-/*____BOXES CSS 
+/*____BOXES CSS
 ======================================*/
 
 
@@ -3876,7 +3876,7 @@ ol.list-num-count.list-outline-none>li:before {
 
 
 /*-------------------------------------
-	for media
+	for images
 -------------------------------------*/
 
 
@@ -3893,7 +3893,7 @@ ol.list-num-count.list-outline-none>li:before {
 }
 
 
-/*____IMAGES OVERLAY EFFECTS (overly animation on media)
+/*____IMAGES OVERLAY EFFECTS (overly animation on images)
 ======================================*/
 
 
@@ -4002,7 +4002,7 @@ ol.list-num-count.list-outline-none>li:before {
 .mt-img-overlay7:hover:before,
 .mt-img-overlay7:hover:after,
 .mt-box:hover .mt-img-overlay7:before,
-.mt-box:hover .mt-img-overlay7:after { 
+.mt-box:hover .mt-img-overlay7:after {
 	width:50%;
 }
 
@@ -4043,12 +4043,12 @@ ol.list-num-count.list-outline-none>li:before {
 }
 
 
-/*____shortcodeS 
+/*____shortcodeS
 ======================================*/
 
 
 /*-------------------------------------
-	Buttons 
+	Buttons
 --------------------------------------- */
 
 
@@ -5082,7 +5082,7 @@ animation-duration: 1s;
 
 
 /*-------------------------------------
-	Title separators 
+	Title separators
 -------------------------------------*/
 
 
@@ -5125,7 +5125,7 @@ animation-duration: 1s;
 /* .mt-separator-outer.separator-right .mt-separator .sep-line-one::before {display:none;} */
 
 
-.mt-separator{	
+.mt-separator{
 	display:inline-block;
 	margin-top:0px;
 	font-family: 'Poppins', sans-serif;
@@ -5153,7 +5153,7 @@ animation-duration: 1s;
 }
 
 
-.mt-separator,.sep-line-one,.sep-line-two{	
+.mt-separator,.sep-line-one,.sep-line-two{
 	position:relative;
 }
 
@@ -5207,11 +5207,11 @@ animation-duration: 1s;
 @media only screen and (max-width: 768px){
 .mt-separator h1,
 .mt-separator h2,
-.mt-separator h3{	
+.mt-separator h3{
 	font-size:24px;
 	margin-bottom:0px;
 }
-.our-exp h3{	
+.our-exp h3{
 	font-size:24px;
 }
 h3{
@@ -5230,7 +5230,7 @@ h3 .font-weight-100{
 
 
 /*-------------------------------------
-	Deviders 
+	Deviders
 -------------------------------------*/
 
 
@@ -5298,7 +5298,7 @@ h3 .font-weight-100{
 
 
 /*-------------------------------------
-	TABS 
+	TABS
 -------------------------------------*/
 
 
@@ -5607,7 +5607,7 @@ h3 .font-weight-100{
 
 
 /*-------------------------------------
-	Accordians 
+	Accordians
 -------------------------------------*/
 
 
@@ -5932,7 +5932,7 @@ h3 .font-weight-100{
 
 
 /*-------------------------------------
-	7. Testimonials 
+	7. Testimonials
 -------------------------------------*/
 
 
@@ -6088,10 +6088,10 @@ h3 .font-weight-100{
 
 
 .testimonial-2 .testimonial-text .fa-quote-right {
-	position: absolute;	
-	right: 15px;	
-	top: -90px;	
-	font-size: 70px;	
+	position: absolute;
+	right: 15px;
+	top: -90px;
+	font-size: 70px;
 	color: rgba(245,190,25,0.3);
 }
 
@@ -6343,7 +6343,7 @@ h3 .font-weight-100{
 
 
 .pricing-table-style-5 .pricingtable-title{
-	background-color:inherit;	
+	background-color:inherit;
 	padding: 40px 20px 0px 20px
 }
 
@@ -6391,7 +6391,7 @@ h3 .font-weight-100{
 
 
 /*-------------------------------------
-	Alert box 
+	Alert box
 -------------------------------------*/
 
 
@@ -6443,7 +6443,7 @@ h3 .font-weight-100{
 
 
 /*-------------------------------------
-	Image effects 
+	Image effects
 -------------------------------------*/
 
 
@@ -6691,7 +6691,7 @@ h3 .font-weight-100{
 
 
 /*-------------------------------------
-	Modal pop 
+	Modal pop
 -------------------------------------*/
 
 
@@ -6721,7 +6721,7 @@ h3 .font-weight-100{
 
 
 /*-------------------------------------
-	Social icons 
+	Social icons
 -------------------------------------*/
 
 
@@ -7032,7 +7032,7 @@ h3 .font-weight-100{
 
 
 /*-------------------------------------
-	Breadcrumb 
+	Breadcrumb
 -------------------------------------*/
 
 
@@ -7095,7 +7095,7 @@ h3 .font-weight-100{
 
 
 /*-------------------------------------
-	Google map 
+	Google map
 -------------------------------------*/
 
 
@@ -7106,7 +7106,7 @@ h3 .font-weight-100{
 
 
 /*-------------------------------------
-	Countdown clock 
+	Countdown clock
 -------------------------------------*/
 
 
@@ -7158,7 +7158,7 @@ h3 .font-weight-100{
 
 
 /*-------------------------------------
-	Form elements 
+	Form elements
 -------------------------------------*/
 
 
@@ -7428,7 +7428,7 @@ input[type=radio]:checked+label:before {
 
 
 /*-------------------------------------
-	 Loading 
+	 Loading
 -------------------------------------*/
 
 
@@ -7497,7 +7497,7 @@ input[type=radio]:checked+label:before {
 
 
 /*-------------------------------------
-	Widgets 
+	Widgets
 -------------------------------------*/
 
 
@@ -7556,8 +7556,8 @@ input[type=radio]:checked+label:before {
 
 .widget_services ul li:hover {
 	border-left: 5px solid #F5BF23;
-	
-	box-shadow: 0px 4px 7px 0px #ededed;	
+
+	box-shadow: 0px 4px 7px 0px #ededed;
 }
 
 
@@ -7565,7 +7565,7 @@ input[type=radio]:checked+label:before {
 	color: #000;
 	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
-	font-weight: 400;		
+	font-weight: 400;
 }
 
 
@@ -8031,7 +8031,7 @@ input[type=radio]:checked+label:before {
 
 
 /*-------------------------------------
-	Table 
+	Table
 -------------------------------------*/
 
 
@@ -8087,7 +8087,7 @@ input[type=radio]:checked+label:before {
 
 
 /*-------------------------------------
-	Video 
+	Video
 -------------------------------------*/
 
 
@@ -8097,7 +8097,7 @@ input[type=radio]:checked+label:before {
 
 
 /*======================================
-1WP DEFAULT  
+1WP DEFAULT
 ======================================*/
 
 
@@ -8272,7 +8272,7 @@ blockquote.author-quote {
 }
 
 
-/*____BLOG  
+/*____BLOG
 ======================================*/
 
 
@@ -8521,7 +8521,7 @@ ol.comment-list li.comment p {
 @media only screen and (max-width:420px){
 	ol.comment-list li.comment p {
 		margin: 0 0 15px;
-	}	
+	}
 }
 
 
@@ -8562,12 +8562,12 @@ ol.comment-list li .children li {
 	ol.comment-list li .children {
 		list-style: none;
 		margin-left: 0px;
-	}	
+	}
 }
 
 
 @media only screen and (max-width: 500px) {
-	
+
 	ol.comment-list li.comment .comment-body {
 		padding: 20px 30px 20px 20px;
 		text-align: center;
@@ -8592,7 +8592,7 @@ ol.comment-list li.comment .reply {
 @media only screen and (max-width: 380px) {
 	ol.comment-list {
 		padding: 0px;
-	}	
+	}
 	ol.comment-list li.comment .comment-author .avatar {
 		position: inherit;
 		left: inherit;
@@ -8606,8 +8606,8 @@ ol.comment-list li.comment .reply {
 		position: relative;
 		padding: 0;
 		margin-bottom: 10px;
-	
-	}	
+
+	}
 }
 
 
@@ -8814,7 +8814,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	.portfolio-item iframe{
 		width: 100%;
 		background-color: #000;
-	}	
+	}
 }
 
 
@@ -8945,7 +8945,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	line-height: 28px;
 	padding: 0px;
 	position: relative;
-	
+
 }
 
 
@@ -9287,7 +9287,7 @@ HEADER (top part of page)
 
 
 /*-------------------------------------
-	logo for header 
+	logo for header
 -------------------------------------*/
 
 
@@ -9367,7 +9367,7 @@ HEADER (top part of page)
 
 
 /*-------------------------------------
-	when header is sticky 
+	when header is sticky
 -------------------------------------*/
 
 
@@ -9401,7 +9401,7 @@ HEADER (top part of page)
 
 
 /*-------------------------------------
-	eamil-phone (left) 
+	eamil-phone (left)
 -------------------------------------*/
 
 
@@ -9430,7 +9430,7 @@ padding:7px 0px;
 
 
 /*-------------------------------------
-	social-links (right) 
+	social-links (right)
 -------------------------------------*/
 
 
@@ -9875,7 +9875,7 @@ padding:7px 0px;
 }
 
 
-/*____ NAVIGATIONS 
+/*____ NAVIGATIONS
 ======================================*/
 
 
@@ -10024,14 +10024,14 @@ padding:7px 0px;
 	padding: 14px 20px;
 	font-weight: 400;
 	border-left:0px solid transparent;
-	transition: all 0.2s linear;	
+	transition: all 0.2s linear;
 }
 
 
 .header-nav .nav>li .sub-menu li a:hover {
 	color: #000;
 	text-decoration: none;
-	border-left:10px solid  #F5BF23;	
+	border-left:10px solid  #F5BF23;
 }
 
 
@@ -10551,7 +10551,7 @@ padding:7px 0px;
 	.nav-dark.header-nav .nav>li .mega-menu {
 		background-color: #1a1a1a;
 	}
-	
+
 	.nav-dark .has-child .submenu-toogle{
 		color:#fff;
 	}
@@ -10675,7 +10675,7 @@ padding:7px 0px;
 
 
 /*-------------------------------------
-	 header style 2 
+	 header style 2
 -------------------------------------*/
 
 
@@ -10762,7 +10762,7 @@ padding:7px 0px;
 }
 
 
-@media only screen and (max-width:1200px) { 
+@media only screen and (max-width:1200px) {
 .header-style-2 .main-bar,
 .header-style-2 .is-fixed .main-bar {
 	max-width:100%;
@@ -10779,10 +10779,10 @@ padding:7px 0px;
 		width: 100%;
 		height:60px;
 	}
-	
+
 	.header-style-2 .logo-header a img {
 		max-width:160px;
-	}	
+	}
 	.header-style-2 .header-info {
 		float:none;
 	}
@@ -10792,7 +10792,7 @@ padding:7px 0px;
     display: table;
 	width:100%;
 }
-	
+
 }
 
 
@@ -10812,13 +10812,13 @@ padding:7px 0px;
 		margin-top: 10px;
 		margin-bottom: 10px;
 	}
-	
+
 	.header-style-2 .header-info > ul li.btn-col-last {
 		text-align:right;
 	}
 	.header-style-2 .header-info > ul li.btn-col-last .site-button-secondry.btn-effect{
 		font-size: 12px;
-	}		
+	}
 }
 
 
@@ -10986,7 +10986,7 @@ padding:7px 0px;
 
 
 /*-------------------------------------
-	inner page banner 
+	inner page banner
 -------------------------------------*/
 
 
@@ -11115,7 +11115,7 @@ padding:7px 0px;
 
 
 /*-------------------------------------
-	owl slider 
+	owl slider
 -------------------------------------*/
 
 
@@ -11364,7 +11364,7 @@ padding:7px 0px;
 }
 
 
-/*____PAGINATION 
+/*____PAGINATION
 ======================================*/
 
 
@@ -11434,7 +11434,7 @@ padding:7px 0px;
 }
 
 
-/*____FOOTER 
+/*____FOOTER
 ======================================*/
 
 
@@ -11636,7 +11636,7 @@ padding:7px 0px;
 }
 
 
-@media only screen and (max-width:600px) {
+@media only screen and (max-width:991px) {
 	.site-footer {
 		padding: 0px;
 	}
@@ -11754,13 +11754,7 @@ padding:7px 0px;
 	width: 100%;
 	max-width: 1170;
 }
-@media all and (min-width:0px) and  (max-width: 799px) {
 
-   .myElement {
-       margin-top: 350px;
-   }
-
-}
 
 @media only screen and (max-width:1366px) {
 	.footer-wide .container-fluid {
@@ -11787,7 +11781,7 @@ padding:7px 0px;
 @media only screen and (max-width: 768px) {
 .footer-top {
     padding: 90px 0px 10px 0px;
-}	
+}
 }
 
 
@@ -11827,7 +11821,7 @@ padding:7px 0px;
 @media only screen and (max-width:1200px) {
 	.footer-col-3{
 		clear: both;
-	}	
+	}
 }
 
 
@@ -11970,7 +11964,7 @@ button.scroltop span {
 
 
 /*-------------------------------------
-	Section Head Part 
+	Section Head Part
 -------------------------------------*/
 
 
@@ -12046,7 +12040,7 @@ button.scroltop span {
 
 
 /*-------------------------------------
-	Section Content Part 
+	Section Content Part
 -------------------------------------*/
 
 
@@ -12076,7 +12070,7 @@ button.scroltop span {
 
 
 /*-------------------------------------
-	Contact us page 
+	Contact us page
 -------------------------------------*/
 
 
@@ -12232,7 +12226,7 @@ ul.contact-info li .fa {
 
 
 /*-------------------------------------
-	Product Box 
+	Product Box
 -------------------------------------*/
 
 
@@ -12334,7 +12328,7 @@ ul.contact-info li .fa {
 }
 
 
-/*____content show on image box () 
+/*____content show on image box ()
 ======================================*/
 
 
@@ -12346,12 +12340,12 @@ ul.contact-info li .fa {
 }
 
 
-/*____Customize  Grouping css 
+/*____Customize  Grouping css
 ======================================*/
 
 
 /*-------------------------------------
-	set-radius 
+	set-radius
 -------------------------------------*/
 
 
@@ -12385,8 +12379,8 @@ ol.comment-list li.comment .comment-body {
 }
 
 
-/*------------------------------------- 
-	transition 
+/*-------------------------------------
+	transition
 -------------------------------------*/
 
 
@@ -12433,8 +12427,8 @@ a,
 }
 
 
-/*------------------------------------- 
-	float-clearfix 
+/*-------------------------------------
+	float-clearfix
 -------------------------------------*/
 
 
@@ -12449,16 +12443,16 @@ ol.commentlist li::after {
 }
 
 
-/*____Inner pages 
+/*____Inner pages
 ======================================*/
 
 
-/*------------------------------------- 
+/*-------------------------------------
 	Out Team
 -------------------------------------*/
 
 
-/*------------------------------------- 
+/*-------------------------------------
 	Product block
 -------------------------------------*/
 
@@ -13043,8 +13037,8 @@ font-size:68px;
 	.m-about-containt h2,
 	.m-about-containt h3{
 		font-size: 22px;
-		line-height:inherit;	
-	}	
+		line-height:inherit;
+	}
 }
 
 
@@ -13152,7 +13146,7 @@ font-size:68px;
 
 
 @media only screen and (max-width:768px){
-	.similar-projects .mt-info{	
+	.similar-projects .mt-info{
 		margin-bottom: -50px;
 	}
 }
@@ -14299,7 +14293,7 @@ font-size:68px;
   width:60px;
   height:60px;
   transform: translateX(-50%) translateY(-50%);
-  transform-origin: center center;    
+  transform-origin: center center;
 }
 
 
@@ -14452,7 +14446,7 @@ font-size:68px;
 	.is-fixed .navbar-toggle {
 		margin-bottom: 0px;
 	}
-	
+
 }
 
 
@@ -14587,7 +14581,7 @@ font-size:68px;
   text-align: center;
   margin-top:10px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
-transition: all 0.5s linear;  
+transition: all 0.5s linear;
 }
 
 
@@ -14654,7 +14648,7 @@ transition: all 0.5s linear;
   text-align: center;
   margin-top:10px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
-transition: all 0.5s linear;  
+transition: all 0.5s linear;
 }
 
 
@@ -14733,7 +14727,7 @@ transition: all 0.5s linear;
 	padding: 1%;
 	height: 100px;
 	border: 1px solid #e7e7e7;
-    transition: all 0.5s linear;	
+    transition: all 0.5s linear;
 }
 
 
@@ -14947,7 +14941,7 @@ transition: all 0.5s linear;
 	width:100%;
 	height:100%;
 	z-index:0;
-	
+
 }
 
 
@@ -14993,7 +14987,7 @@ transition: all 0.5s linear;
 }
 
 
-/*____scale media
+/*____scale images
 ======================================*/
 
 
@@ -15015,7 +15009,7 @@ transition: all 0.5s linear;
 
 
 .scale-bg-top:before {
-	/* background-image: url("../media/background/scale-top.png"); */
+	/* background-image: url("../images/background/scale-top.png"); */
 	background-position: top;
 	background-repeat: repeat-x;
 	top: 0px;
@@ -15023,7 +15017,7 @@ transition: all 0.5s linear;
 
 
 .scale-bg-bottom:after {
-	/* background-image: url("../media/background/scale-bottom.png"); */
+	/* background-image: url("../images/background/scale-bottom.png"); */
 	background-position: bottom;
 	background-repeat: repeat-x;
 	bottom: 0px;

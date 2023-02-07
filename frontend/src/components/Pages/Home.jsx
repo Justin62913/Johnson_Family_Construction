@@ -13,8 +13,35 @@ import Blogs from './../Elements/Blogs';
 
 
 
-class Home extends React.Component {
-    render() {
+const Home = () => {
+
+
+
+
+
+
+
+
+    /*state = {
+        data: []
+    }
+
+    async componentDidMount() {
+        try {
+            const response = await fetch('/api/projects')
+            const data = await response.json();
+            console.log(data)
+            this.setState({data: data})
+
+        }catch(err) {
+            console.log(err)
+        }
+
+
+
+
+    };*/
+
         return (
             <>
                 <Header />
@@ -27,12 +54,14 @@ class Home extends React.Component {
                     <Callus />
                     <OurProject />
                     <Blogs />
-                    <Footer  />
+
+
                 </div>
+                <Footer  />
+
 
             </>
         );
-    };
 };
 
 export default Home;

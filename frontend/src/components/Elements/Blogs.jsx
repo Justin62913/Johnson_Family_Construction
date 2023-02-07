@@ -2,7 +2,7 @@ import React from 'react';
 
 
 
-
+var bnr1 = require('./../../images/background/bg5.jpg');
 
 /*const blogs = [
     {
@@ -34,18 +34,19 @@ import React from 'react';
 
 
 class Blogs extends React.Component {
+
     render() {
         return (
             <>
-                <div className="section-full mobile-page-padding p-tb80 overlay-wraper bg-cover bg-center" style={{background: 'black'}}>
-                    <div className="overlay-main bg-primary opacity-07" />
+                <div className="section-full mobile-page-padding p-t80 p-b30 square_shape1 bg-parallax bg-cover" data-stellar-background-ratio="0.5" >
                     <div className="container">
-                        <div className="section-content">
-                            <div className="call-us-section text-center">
+                        {/* TITLE START */}
 
-                            </div>
-                        </div>
+                        {/* TITLE END */}
+                        {/* IMAGE CAROUSEL START */}
+
                     </div>
+
                 </div>
             </>
         );
