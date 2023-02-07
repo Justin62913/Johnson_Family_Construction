@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.7c5fca8a.css",
-    "main.js": "./static/js/main.0d6b568b.js",
+    "main.js": "./static/js/main.ad277320.js",
     "static/media/barn.jpg": "./static/media/barn.b6bdb5dc126479455cb4.jpg",
     "static/media/update_roof2.jpg": "./static/media/update_roof2.030863351f160dc06105.jpg",
     "static/media/Justin.jpeg": "./static/media/Justin.92fa80ce829963969a96.jpeg",
@@ -19,18 +19,16 @@
     "static/media/JFCLogo.png": "./static/media/JFCLogo.3a710131db9fd6107074.png",
     "static/media/bg-site.png": "./static/media/bg-site.6e12de7239e924dfab67.png",
     "static/media/bg-boxed.jpg": "./static/media/bg-boxed.06a417a8b52c84161d11.jpg",
-    "static/media/1.jpg": "./static/media/1.f2be673cb4b696c605f0.jpg",
     "static/media/4.jpg": "./static/media/4.4312233c3df24dd96d6d.jpg",
-    "static/media/bg5.jpg": "./static/media/bg5.f9cf0b491adea91787c1.jpg",
     "static/media/compass.png": "./static/media/compass.c79c59d4a3ff54e8cada.png",
     "static/media/crane-1.png": "./static/media/crane-1.c1d71c9747c77c90b14c.png",
     "static/media/toolbox.png": "./static/media/toolbox.8d2a8f5dfabb707cd9c0.png",
     "index.html": "./index.html",
     "main.7c5fca8a.css.map": "./static/css/main.7c5fca8a.css.map",
-    "main.0d6b568b.js.map": "./static/js/main.0d6b568b.js.map"
+    "main.ad277320.js.map": "./static/js/main.ad277320.js.map"
   },
   "entrypoints": [
     "static/css/main.7c5fca8a.css",
-    "static/js/main.0d6b568b.js"
+    "static/js/main.ad277320.js"
   ]
 }

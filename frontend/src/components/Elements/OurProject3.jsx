@@ -54,7 +54,7 @@ import React from 'react';
     },
 ]*/
 
-var img1 = require('./../../images/background/bg5.jpg');
+var img1 = require('./../../images/background/line.png');
 
 class OurProject3 extends React.Component {
     componentDidMount() {

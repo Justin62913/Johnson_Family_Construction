@@ -1,5 +1,8 @@
 import React from 'react';
-// import { NavLink } from 'react-router-dom';
+
+
+
+
 
 /*const blogs = [
     {
@@ -34,15 +37,15 @@ class Blogs extends React.Component {
     render() {
         return (
             <>
-                <div className="section-full mobile-page-padding p-t80 p-b30 square_shape1 bg-parallax bg-cover" data-stellar-background-ratio="0.5" >
+                <div className="section-full mobile-page-padding p-tb80 overlay-wraper bg-cover bg-center" style={{background: 'black'}}>
+                    <div className="overlay-main bg-primary opacity-07" />
                     <div className="container">
-                        {/* TITLE START */}
+                        <div className="section-content">
+                            <div className="call-us-section text-center">
 
-                        {/* TITLE END */}
-                        {/* IMAGE CAROUSEL START */}
-
+                            </div>
+                        </div>
                     </div>
-
                 </div>
             </>
         );

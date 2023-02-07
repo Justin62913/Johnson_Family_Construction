@@ -7,7 +7,7 @@ import Specialization4 from './../Elements/Specialization4';
 import Team3 from './../Elements/Team3';
 import AboutSummary from './../Elements/AboutSummary';
 
-var bnrimg = require('./../../images/banner/1.jpg');
+
 
 class About extends React.Component {
     render() {
@@ -16,7 +16,7 @@ class About extends React.Component {
 
                 <Header />
                 <div className="page-content">
-                    <Banner title="We pride ourselves in quality and satisfaction" pagename="About Us" bgimage={bnrimg}/>
+                    <Banner title="We pride ourselves in quality and satisfaction" pagename="About Us" />
                     <About4 />
                     <Specialization4 />
                     <Team3 />

@@ -16,7 +16,7 @@ class Footer extends React.Component {
         
         return (
             <>
-                <footer className="site-footer footer-large  footer-dark	footer-wide">
+                <footer className="site-footer footer-large  footer-dark	footer-wide"  >
 
                     {/* FOOTER BLOCKES START */}
                     <div className="footer-top overlay-wraper">

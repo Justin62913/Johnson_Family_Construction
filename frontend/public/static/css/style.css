@@ -11636,7 +11636,7 @@ padding:7px 0px;
 }
 
 
-@media only screen and (max-width:991px) {
+@media only screen and (max-width:600px) {
 	.site-footer {
 		padding: 0px;
 	}
@@ -11754,7 +11754,13 @@ padding:7px 0px;
 	width: 100%;
 	max-width: 1170;
 }
+@media all and (min-width:0px) and  (max-width: 799px) {
 
+   .myElement {
+       margin-top: 350px;
+   }
+
+}
 
 @media only screen and (max-width:1366px) {
 	.footer-wide .container-fluid {

@@ -27,9 +27,9 @@ class Home extends React.Component {
                     <Callus />
                     <OurProject />
                     <Blogs />
-
+                    <Footer  />
                 </div>
-                <Footer />
+
             </>
         );
     };

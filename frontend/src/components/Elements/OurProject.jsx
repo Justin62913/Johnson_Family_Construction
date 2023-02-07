@@ -45,7 +45,7 @@ class ProjectGrid extends React.Component {
        const projects = this.state.data
         return (
             <>
-                <div className="page-content">
+                <div className="page-content" >
 
                     {/* SECTION CONTENT START */}
                     <div className="section-full p-tb80 inner-page-padding">
@@ -63,7 +63,7 @@ class ProjectGrid extends React.Component {
                             {/* GALLERY CONTENT START */}
                             <div className="portfolio-wrap mfp-gallery work-grid row clearfix">
                                 {projects.slice(0,3).map((item, index) => (
-                                    <div key={index} className={`${item?.filter} masonry-item col-md-4 col-sm-6 m-b30`}>
+                                    <div key={index} className={`masonry-item col-md-4 col-sm-6 m-b30`}>
                                         <div className="image-effect-two hover-shadow">
                                             <img src={item.image} alt="" />
                                             <div className="figcaption">
