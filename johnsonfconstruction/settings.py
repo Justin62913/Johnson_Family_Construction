@@ -28,7 +28,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 CORS_ORIGIN_ALLOW_ALL = True
-CSRF_TRUSTED_ORIGINS=['https://*.https://www.johnsonfamily-construction.com/']
+CSRF_TRUSTED_ORIGINS=['https://*.www.johnsonfamily-construction.com/']
 
 # Application definition
 
