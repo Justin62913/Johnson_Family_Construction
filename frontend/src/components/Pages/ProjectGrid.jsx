@@ -103,7 +103,7 @@ const ProjectGrid = () => {
                             {/* PAGINATION END */}
                             {/* GALLERY CONTENT START */}
                             <div className={" mfp-gallery work-grid row clearfix"}>
-                                {projects.slice(0,15).map((item, index,id) => (
+                                {projects.slice(0,21).map((item, index,id) => (
                                     <div key={index} className={` masonry-item col-md-4 col-sm-6 m-b30`}>
                                         <div className="image-effect-two hover-shadow">
                                             <img src={item?.thumb} alt=""/>
