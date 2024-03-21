@@ -100,11 +100,11 @@ WSGI_APPLICATION = 'johnsonfconstruction.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'PGDATABASE',
-        'USER': 'PGUSER',
-        'PASSWORD': 'PGPASSWORD',
-        'HOST': 'PGHOST',
-        'PORT': 'PGPORT',
+        'NAME': 'DATABASE_NAME',
+        'USER': 'DATABASE_USER',
+        'PASSWORD': 'DATABASE_PASSWORD',
+        'HOST': 'DATABASE_HOSTNAME',
+        'PORT': 'DATABASE_PORT',
     }
 }
 
