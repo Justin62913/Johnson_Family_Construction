@@ -28,7 +28,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 CORS_ORIGIN_ALLOW_ALL = True
-CSRF_TRUSTED_ORIGINS=['https://*.johnsonfamily-construction.com']
+CSRF_TRUSTED_ORIGINS=['https://*.johnsonfamily-construction.com/', 'https://*.railway.app']
 
 # Application definition
 
@@ -48,7 +48,7 @@ REST_FRAMEWORK = {
         'rest_framework.permissions.IsAuthenticatedOrReadOnly'
     ],
     'DEFAULT_AUTHENTICATION_CLASSES': [
-        #'rest_framework.authentication.BasicAuthentication',
+        'rest_framework.authentication.BasicAuthentication',
         'rest_framework.authentication.SessionAuthentication',
     ],
 
